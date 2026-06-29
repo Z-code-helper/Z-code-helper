@@ -2,8 +2,6 @@
 - 👀 I’m interested in doing crazy shit
 - 🌱 I’m currently learning new technology
 - 💞️ I’m looking to collaborate on any new tech 
-- 📫 How to reach me dj.anyhelp@gmail.com
-- ⚡ Fun fact: BC....
 
 <!---
 Z-code-helper/Z-code-helper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
